@@ -1,0 +1,15 @@
+# Core versions recorded in the supplied checkpoint and original setup output.
+# Python 3.11 is recommended. This is not a fully captured historical environment.
+numpy==2.0.2
+torch==2.6.0
+stable-baselines3==2.6.0
+sb3-contrib==2.6.0
+gymnasium==1.1.1
+cloudpickle==3.1.1
+pandas
+matplotlib
+scikit-learn
+scipy
+yfinance
+tensorboard
+jupyterlab
